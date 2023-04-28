@@ -14,11 +14,14 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
-
-
-
 ## Backend Server
 
 Visit Nestjs Framework: `https://github.com/angeldelacruzdev/nestjs-jwt-typeorm-sql`
- 
+
+## Unit tests
+
+Do-it-yourself unit tests, I don't know your business model at the time of its development.
+
+After you create your unit tests, they can be run with this command:
+
+`ng test` or `npm run test`
